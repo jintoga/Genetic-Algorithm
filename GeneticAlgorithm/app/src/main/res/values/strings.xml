@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeneticAlgorithm</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start">Начать</string>
+    <string name="bit_string_length">Длина битовой строки:</string>
+    <string name="number_of_organisms">Количество Организмов (Z):</string>
+    <string name="number_of_generations">Количество Поколений (G):</string>
+    <string name="number_of_reproductions">Количество Воспроизводств (Q):</string>
+    <string name="mutate_chance">Вероятность Мутации (Pm):</string>
+    <string name="strong_chance">Вероятность Приспособленности (Pvm):</string>
+    <string name="die_chance">Вероятность Гибели (Pv):</string>
+</resources>
